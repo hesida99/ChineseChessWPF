@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Mine
+namespace WpfApp1
 {
     public class MyException : Exception//这个class没有用，是我想学异常操作复制下来的
     {
@@ -25,5 +25,4 @@ namespace Mine
         }
 
     }
-
 }
